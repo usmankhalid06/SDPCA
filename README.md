@@ -1,1 +1,1 @@
-Code for the proposed method SDPCA, submitted to Cluster Computing Springer
+Implementation Code for the Proposed SDPCA Method - Scientific Reports Nature Submission
