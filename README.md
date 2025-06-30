@@ -1,1 +1,1 @@
-Code for the proposed method SDPCA, submitted to Machine Learning Springer
+Code for the proposed method SDPCA, submitted to Cluster Computing Springer
